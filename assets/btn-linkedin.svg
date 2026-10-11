@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 42" width="150" height="42" role="img" aria-label="LinkedIn">
+<title>LinkedIn</title>
+<rect width="150" height="42" rx="10" fill="#101c26"/>
+<rect x="0.7" y="0.7" width="148.6" height="40.6" rx="9.3" fill="none" stroke="#b8df9f" stroke-opacity="0.38"/>
+<g transform="translate(19 11.0) scale(0.8333)"><rect x="3" y="3" width="18" height="18" rx="3.2" fill="none" stroke="#b8df9f" stroke-width="1.9"/><path d="M7.6 10.4V17" stroke="#b8df9f" stroke-width="2.1" stroke-linecap="round"/><circle cx="7.6" cy="7.4" r="1.35" fill="#b8df9f"/><path d="M11.6 17v-3.6a2.5 2.5 0 0 1 5 0V17" fill="none" stroke="#b8df9f" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="52" y="26.5" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="600" fill="#e6eef4">LinkedIn</text>
+</svg>

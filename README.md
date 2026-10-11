@@ -2,10 +2,10 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-banner-static.svg">
-  <img src="assets/profile-banner.svg" width="100%" alt="Hey, I'm Phone — Computer Engineering, Chiang Rai, Thailand. A small spacecraft drifts across a starfield above a planet's horizon.">
+  <img src="assets/profile-banner.svg" width="100%" alt="Hey, I'm Phone — Computer Engineering, software, AI and machine learning. A night city skyline seen between two towers, with traffic lights threading between the buildings.">
 </picture>
 
-[Portfolio](https://zenzee7711.github.io/) · [LinkedIn](https://www.linkedin.com/in/phone-thant-kyaw-8a8194216/) · [Email](mailto:phonetk7711@gmail.com)
+<a href="https://zenzee7711.github.io/"><img src="assets/btn-portfolio.svg" height="42" alt="Portfolio"></a> <a href="https://www.linkedin.com/in/phone-thant-kyaw-8a8194216/"><img src="assets/btn-linkedin.svg" height="42" alt="LinkedIn"></a> <a href="mailto:phonetk7711@gmail.com"><img src="assets/btn-email.svg" height="42" alt="Email"></a>
 
 </div>
 
@@ -22,7 +22,9 @@ my project teams, usually because someone has to track how the pieces join up.
 
 I'm also a Teaching Assistant at MFU, supporting laboratory courses in programming,
 networking, digital logic and data analytics. Explaining something to a student who is
-stuck is a good test of whether I understand it myself.
+stuck is a good test of whether I understand it myself. In September 2026 I joined
+FACE IT 2026 at Universitas Brawijaya in Indonesia, an academic and cultural exchange
+on deep learning and AI for images.
 
 ## Currently Exploring
 
@@ -30,18 +32,9 @@ I'm learning AWS cloud services and experimenting with LLMs and generative AI th
 small side projects. They're learning experiments rather than finished systems; they'll
 appear on my portfolio once they're worth showing.
 
-## Away From the Keyboard
-
-<div align="center">
-<img src="assets/droid.svg" width="130" alt="A small original droid illustration with a glowing green lens.">
-</div>
-
-I'm a Star Wars fan, which is where the ship in the banner and the droid above came from.
-In September 2026 I joined FACE IT 2026 at Universitas Brawijaya in Indonesia — an academic
-and cultural exchange on deep learning and AI for images, and my first time studying
-alongside students from several other countries.
-
 ## Tools I Use
+
+<img src="assets/tools.svg" width="563" alt="Python, scikit-learn, OpenCV, Apache Spark, Apache Kafka, JavaScript, Node.js, Express, Flutter, Dart, MySQL, Docker, Git and AWS.">
 
 |  |  |
 | --- | --- |

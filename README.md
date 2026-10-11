@@ -1,56 +1,67 @@
-## Phone Thant Kyaw
+<div align="center">
 
-Fourth-year Computer Engineering student at Mae Fah Luang University, Chiang Rai, Thailand.
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-banner-static.svg">
+  <img src="assets/profile-banner.svg" width="100%" alt="Hey, I'm Phone — Computer Engineering, Chiang Rai, Thailand. A small spacecraft drifts across a starfield above a planet's horizon.">
+</picture>
 
-I build machine-learning systems that have to work outside a notebook — preparing the data,
-training the model, and writing the integration that makes it run on real input. Most of what
-I know came from getting a prototype to behave when the inputs were messier than the dataset
-suggested.
+[Portfolio](https://zenzee7711.github.io/) · [LinkedIn](https://www.linkedin.com/in/phone-thant-kyaw-8a8194216/) · [Email](mailto:phonetk7711@gmail.com)
 
-**Looking for a 16-week engineering internship from January 2027** — AI/ML, computer vision,
-data, embedded systems or general software, anywhere in Thailand.
+</div>
 
-### What I'm working on
+## About Me
 
-**Real-Time Smart Road Accident Risk Warning** — my senior project, and the one I would most
-like to be asked about. A roadside prototype that reads traffic video and estimates which *kind*
-of accident is most likely on that stretch of road: rear-end, pedestrian, run-off-road, head-on
-or side-impact. I am project manager on a three-person team and did most of the dataset
-preparation, the model training, and the YOLO + OpenCV integration.
+I'm Phone Thant Kyaw — most people just call me Phone. I'm a fourth-year Computer
+Engineering student at Mae Fah Luang University in Chiang Rai, Thailand.
 
-The interesting part was not the model. It was discovering that most of the wrong warnings came
-from the detector watching traffic we did not care about — the opposite carriageway, and
-motorcycle riders being counted as pedestrians. A region of interest and a rider filter fixed
-more than retraining would have.
+Most of what I do sits between software development and machine learning: building
+applications, training models on real datasets, and wiring the two together so they
+actually run. What I enjoy most is the connecting part — taking components that don't
+quite fit, working out why, and getting a prototype moving. I often end up coordinating
+my project teams, usually because someone has to track how the pieces join up.
 
-→ [Full write-up](https://zenzee7711.github.io/work/road-risk.html)
+I'm also a Teaching Assistant at MFU, supporting laboratory courses in programming,
+networking, digital logic and data analytics. Explaining something to a student who is
+stuck is a good test of whether I understand it myself.
 
-**Ka-Naung Pet Dog** — a team robot-dog build where I handle the hardware side: testing MG995
-servos, working out what each component actually draws, and checking the battery can supply the
-assembled robot rather than one leg on a bench.
+## Currently Exploring
 
-### Selected repositories
+I'm learning AWS cloud services and experimenting with LLMs and generative AI through
+small side projects. They're learning experiments rather than finished systems; they'll
+appear on my portfolio once they're worth showing.
 
-| | |
+## Away From the Keyboard
+
+<div align="center">
+<img src="assets/droid.svg" width="130" alt="A small original droid illustration with a glowing green lens.">
+</div>
+
+I'm a Star Wars fan, which is where the ship in the banner and the droid above came from.
+In September 2026 I joined FACE IT 2026 at Universitas Brawijaya in Indonesia — an academic
+and cultural exchange on deep learning and AI for images, and my first time studying
+alongside students from several other countries.
+
+## Tools I Use
+
+|  |  |
 | --- | --- |
-| [library-room-reservation-web](https://github.com/Zenzee7711/library-room-reservation-web) | Room-booking web app. Node.js, Express and MySQL, with student, lecturer and staff roles enforced server-side. |
-| [library-room-booking-mobile](https://github.com/Zenzee7711/library-room-booking-mobile) | The Flutter client for the same system, plus the JWT-authenticated REST API behind it. |
+| **Languages** | Python · JavaScript · Dart · SQL · HTML/CSS |
+| **ML &amp; data** | LightGBM · scikit-learn · YOLO · OpenCV · PySpark · Spark MLlib · Kafka |
+| **Apps &amp; infrastructure** | Node.js · Express · Flutter · MySQL · Docker · Git |
+| **Learning right now** | AWS · LLMs and generative AI |
 
-Both carry setup instructions and an honest list of known limitations.
+## Find Me
 
-### Toolbox
+My portfolio is the best place to start — it has the detailed write-ups, including how my
+senior project reads traffic video to estimate accident risk:
 
-Python · JavaScript · Dart · SQL — LightGBM · CatBoost · scikit-learn · YOLO · OpenCV —
-PySpark · Spark MLlib · Kafka — Node.js · Express · Flutter · MySQL — Docker · Git
+**→ [zenzee7711.github.io](https://zenzee7711.github.io/)**
 
-Java, C# and MATLAB are coursework rather than project work, and I would rather say so than pad
-the list.
+A couple of repositories if you'd rather read code:
 
-### Elsewhere
+- **[library-room-reservation-web](https://github.com/Zenzee7711/library-room-reservation-web)** — room booking on the web, with student, lecturer and staff roles enforced server-side.
+- **[library-room-booking-mobile](https://github.com/Zenzee7711/library-room-booking-mobile)** — the Flutter client for the same system, plus the REST API behind it.
 
-- **Portfolio** — [zenzee7711.github.io](https://zenzee7711.github.io)
-- **LinkedIn** — [phone-thant-kyaw](https://www.linkedin.com/in/phone-thant-kyaw-8a8194216/)
-- **Email** — phonetk7711@gmail.com
-
-GPA 3.98/4.00 · TOEIC Listening & Reading 980/990 · Teaching assistant for five university
-courses since 2025.
+I'm looking for a co-op internship starting January 2027, in software or AI/ML. The
+quickest way to reach me is [email](mailto:phonetk7711@gmail.com) or
+[LinkedIn](https://www.linkedin.com/in/phone-thant-kyaw-8a8194216/).

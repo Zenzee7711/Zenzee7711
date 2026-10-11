@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-label="Hey, I'm Phone. Computer Engineering, Chiang Rai, Thailand.">
+<title>Hey, I'm Phone — Computer Engineering, Chiang Rai, Thailand</title>
+<!-- Original artwork for github.com/Zenzee7711 (animated version). -->
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#070d14"/><stop offset="1" stop-color="#101c26"/>
+</linearGradient>
+<radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
+  <stop offset="0" stop-color="#f0b357" stop-opacity="0.30"/>
+  <stop offset="1" stop-color="#f0b357" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="limb" cx="0.5" cy="0.5" r="0.5">
+  <stop offset="0.86" stop-color="#0a1016"/><stop offset="1" stop-color="#0d1a20"/>
+</radialGradient>
+<linearGradient id="trail" x1="1" y1="0" x2="0" y2="0">
+  <stop offset="0" stop-color="#b8df9f" stop-opacity="0.85"/>
+  <stop offset="1" stop-color="#b8df9f" stop-opacity="0"/>
+</linearGradient>
+<filter id="glow" x="-70%" y="-70%" width="240%" height="240%">
+  <feGaussianBlur stdDeviation="5"/>
+</filter>
+<filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+  <feGaussianBlur stdDeviation="1.6"/>
+</filter>
+</defs><style>
+  .tw { animation-name: tw; animation-timing-function: ease-in-out;
+        animation-iteration-count: infinite; animation-direction: alternate; }
+  @keyframes tw { from { opacity: .16 } to { opacity: .92 } }
+
+  .ship { animation: fly 26s linear infinite; }
+  @keyframes fly {
+    0%   { transform: translate(-90px, 150px); opacity: 0 }
+    8%   { opacity: .95 }
+    92%  { opacity: .95 }
+    100% { transform: translate(1040px, 44px); opacity: 0 }
+  }
+
+  .drift { animation: drift 150s linear infinite alternate; }
+  @keyframes drift { from { transform: translateX(0) } to { transform: translateX(-26px) } }
+
+  /* Respect the reader's motion preference: park everything, hide nothing. */
+  @media (prefers-reduced-motion: reduce) {
+    .tw, .drift { animation: none }
+    .ship { animation: none; transform: translate(792px, 62px); opacity: .95 }
+  }
+</style>
+<rect width="1000" height="260" fill="url(#sky)"/>
+<g class="drift"><circle class="tw" cx="645.2" cy="75.2" r="1.3" fill="#e8f0f4" opacity="0.5" style="animation-duration:6.2s;animation-delay:-5.8s"/><circle cx="492.9" cy="151.8" r="0.9" fill="#e8f0f4" opacity="0.78"/><circle cx="281.8" cy="47.7" r="1.7" fill="#e8f0f4" opacity="0.43"/><circle cx="827.8" cy="95.5" r="0.9" fill="#e8f0f4" opacity="0.31"/><circle cx="352.8" cy="107.8" r="0.7" fill="#e8f0f4" opacity="0.73"/><circle cx="17.0" cy="110.7" r="0.7" fill="#e8f0f4" opacity="0.66"/><circle cx="791.4" cy="153.3" r="0.7" fill="#e8f0f4" opacity="0.3"/><circle cx="461.3" cy="72.3" r="1.1" fill="#e8f0f4" opacity="0.48"/><circle cx="451.1" cy="137.3" r="1.3" fill="#e8f0f4" opacity="0.43"/><circle cx="222.7" cy="4.6" r="1.7" fill="#e8f0f4" opacity="0.84"/><circle cx="691.3" cy="162.3" r="0.9" fill="#e8f0f4" opacity="0.33"/><circle cx="583.7" cy="160.2" r="0.9" fill="#e8f0f4" opacity="0.8"/><circle class="tw" cx="365.7" cy="56.6" r="1.3" fill="#e8f0f4" opacity="0.47" style="animation-duration:4.6s;animation-delay:-5.9s"/><circle cx="921.5" cy="71.0" r="1.7" fill="#e8f0f4" opacity="0.74"/><circle cx="529.4" cy="5.1" r="0.9" fill="#e8f0f4" opacity="0.3"/><circle cx="7.5" cy="112.0" r="1.3" fill="#e8f0f4" opacity="0.37"/><circle cx="896.8" cy="118.9" r="1.7" fill="#e8f0f4" opacity="0.63"/><circle cx="153.9" cy="157.4" r="1.1" fill="#e8f0f4" opacity="0.49"/><circle class="tw" cx="100.9" cy="62.1" r="1.3" fill="#e8f0f4" opacity="0.57" style="animation-duration:7.6s;animation-delay:-5.6s"/><circle cx="166.1" cy="76.4" r="1.1" fill="#e8f0f4" opacity="0.39"/><circle cx="746.6" cy="40.4" r="0.7" fill="#e8f0f4" opacity="0.42"/><circle cx="591.1" cy="59.6" r="0.7" fill="#e8f0f4" opacity="0.29"/><circle cx="828.1" cy="0.1" r="1.1" fill="#e8f0f4" opacity="0.64"/><circle cx="681.5" cy="24.9" r="1.1" fill="#e8f0f4" opacity="0.53"/><circle class="tw" cx="7.4" cy="18.6" r="1.1" fill="#e8f0f4" opacity="0.53" style="animation-duration:5.7s;animation-delay:-4.9s"/><circle cx="160.2" cy="195.2" r="1.3" fill="#e8f0f4" opacity="0.28"/><circle cx="471.6" cy="25.8" r="1.7" fill="#e8f0f4" opacity="0.82"/><circle cx="335.2" cy="158.9" r="0.9" fill="#e8f0f4" opacity="0.32"/><circle cx="359.8" cy="184.9" r="1.7" fill="#e8f0f4" opacity="0.65"/><circle cx="822.5" cy="190.1" r="1.7" fill="#e8f0f4" opacity="0.19"/><circle cx="849.2" cy="46.0" r="0.7" fill="#e8f0f4" opacity="0.63"/><circle cx="671.2" cy="166.0" r="0.7" fill="#e8f0f4" opacity="0.65"/><circle cx="927.0" cy="110.2" r="0.9" fill="#e8f0f4" opacity="0.19"/><circle cx="586.1" cy="154.7" r="1.1" fill="#e8f0f4" opacity="0.82"/><circle cx="73.4" cy="142.0" r="1.7" fill="#e8f0f4" opacity="0.59"/><circle cx="668.6" cy="46.0" r="1.3" fill="#e8f0f4" opacity="0.63"/><circle class="tw" cx="936.1" cy="67.3" r="1.7" fill="#e8f0f4" opacity="0.33" style="animation-duration:4.6s;animation-delay:-3.1s"/><circle cx="843.9" cy="197.4" r="0.7" fill="#e8f0f4" opacity="0.4"/><circle cx="670.8" cy="157.9" r="0.9" fill="#e8f0f4" opacity="0.34"/><circle cx="428.9" cy="199.0" r="1.3" fill="#e8f0f4" opacity="0.27"/><circle cx="155.6" cy="51.3" r="0.9" fill="#e8f0f4" opacity="0.38"/><circle cx="911.5" cy="121.8" r="1.7" fill="#e8f0f4" opacity="0.24"/><circle cx="205.3" cy="189.6" r="0.7" fill="#e8f0f4" opacity="0.52"/><circle cx="481.2" cy="81.2" r="1.7" fill="#e8f0f4" opacity="0.35"/><circle cx="861.6" cy="149.5" r="0.7" fill="#e8f0f4" opacity="0.3"/><circle cx="995.2" cy="41.5" r="0.7" fill="#e8f0f4" opacity="0.82"/><circle cx="677.6" cy="30.9" r="1.1" fill="#e8f0f4" opacity="0.62"/><circle cx="394.7" cy="67.3" r="1.7" fill="#e8f0f4" opacity="0.36"/><circle cx="990.2" cy="149.1" r="0.9" fill="#e8f0f4" opacity="0.46"/><circle cx="507.7" cy="145.4" r="1.1" fill="#e8f0f4" opacity="0.8"/><circle cx="384.6" cy="24.2" r="0.9" fill="#e8f0f4" opacity="0.84"/><circle cx="939.4" cy="84.1" r="0.9" fill="#e8f0f4" opacity="0.79"/><circle cx="358.8" cy="182.7" r="0.9" fill="#e8f0f4" opacity="0.73"/><circle cx="945.0" cy="110.2" r="1.7" fill="#e8f0f4" opacity="0.28"/><circle cx="8.1" cy="165.5" r="0.9" fill="#e8f0f4" opacity="0.38"/><circle cx="886.3" cy="197.2" r="1.7" fill="#e8f0f4" opacity="0.32"/><circle cx="416.8" cy="142.0" r="1.3" fill="#e8f0f4" opacity="0.74"/><circle cx="488.5" cy="129.3" r="0.7" fill="#e8f0f4" opacity="0.34"/><circle cx="742.9" cy="203.3" r="1.3" fill="#e8f0f4" opacity="0.25"/><circle cx="672.9" cy="77.9" r="1.3" fill="#e8f0f4" opacity="0.6"/><circle class="tw" cx="643.0" cy="212.8" r="1.7" fill="#e8f0f4" opacity="0.33" style="animation-duration:7.2s;animation-delay:-3.8s"/><circle cx="35.8" cy="74.1" r="1.1" fill="#e8f0f4" opacity="0.76"/><circle cx="379.7" cy="198.6" r="1.7" fill="#e8f0f4" opacity="0.78"/><circle cx="832.7" cy="200.3" r="0.7" fill="#e8f0f4" opacity="0.64"/><circle cx="541.9" cy="205.8" r="1.3" fill="#e8f0f4" opacity="0.79"/><circle cx="336.3" cy="199.8" r="1.1" fill="#e8f0f4" opacity="0.51"/><circle class="tw" cx="264.7" cy="11.4" r="1.7" fill="#e8f0f4" opacity="0.77" style="animation-duration:8.0s;animation-delay:-1.8s"/><circle cx="660.9" cy="25.7" r="0.9" fill="#e8f0f4" opacity="0.46"/><circle cx="261.7" cy="132.4" r="1.7" fill="#e8f0f4" opacity="0.46"/><circle cx="574.8" cy="47.4" r="1.3" fill="#e8f0f4" opacity="0.32"/><circle cx="250.7" cy="171.4" r="1.7" fill="#e8f0f4" opacity="0.44"/><circle cx="935.2" cy="86.8" r="0.7" fill="#e8f0f4" opacity="0.42"/><circle class="tw" cx="449.2" cy="118.3" r="1.7" fill="#e8f0f4" opacity="0.53" style="animation-duration:5.9s;animation-delay:-2.2s"/><circle cx="498.3" cy="62.3" r="0.7" fill="#e8f0f4" opacity="0.38"/><circle cx="35.9" cy="143.4" r="1.3" fill="#e8f0f4" opacity="0.77"/><circle cx="844.7" cy="123.7" r="0.7" fill="#e8f0f4" opacity="0.19"/><circle cx="910.4" cy="119.0" r="1.1" fill="#e8f0f4" opacity="0.44"/><circle cx="334.7" cy="124.7" r="1.1" fill="#e8f0f4" opacity="0.63"/></g>
+<ellipse cx="878" cy="48" rx="190" ry="150" fill="url(#sun)"/>
+<g class="ship">
+  <path d="M-30 11 L-2 7.5 L-2 14.5 Z" fill="url(#trail)"/>
+  <path d="M0 11 L11 3 L40 2.5 L53 11 L40 19.5 L11 19 Z" fill="#1d2d3a" stroke="#b8df9f" stroke-width="1.1" stroke-linejoin="round"/>
+  <path d="M13 3.4 L5 -4 M13 18.6 L5 26" stroke="#b8df9f" stroke-width="1.1" stroke-linecap="round" opacity="0.75"/>
+  <circle cx="39" cy="11" r="3.1" fill="#f0b357"/>
+  <circle cx="0.5" cy="11" r="2.6" fill="#b8df9f" filter="url(#soft)"/>
+</g>
+<circle cx="500" cy="2400" r="2200" fill="url(#limb)"/>
+<path d="M-12 260 A2200 2200 0 0 1 1012 260" fill="none" stroke="#b8df9f" stroke-width="3" opacity="0.38" filter="url(#soft)"/>
+<path d="M-12 260 A2200 2200 0 0 1 1012 260" fill="none" stroke="#b8df9f" stroke-width="1.1" opacity="0.72"/>
+<text x="64" y="132" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="72" font-weight="700" fill="#f3f8f9" letter-spacing="-2">Hey, I&#8217;m Phone.</text>
+<text x="66" y="176" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="30" font-weight="400" fill="#9fb3c0">Computer Engineering &#183; Chiang Rai, Thailand</text>
+</svg>

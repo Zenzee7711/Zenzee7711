@@ -11,7 +11,7 @@
 
 ## About Me
 
-<img align="right" src="assets/neko.svg" width="110" alt="A small orange chibi cat blinking and swishing its tail">
+<img align="right" src="assets/eva.svg" width="240" alt="Evangelion Unit-01 hovering">
 
 Hi, I'm **Phone Thant Kyaw**. Most people call me Phone.
 

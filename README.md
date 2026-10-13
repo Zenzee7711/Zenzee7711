@@ -11,35 +11,16 @@
 
 ## About Me
 
-I'm Phone Thant Kyaw. Most people call me Phone. I'm a fourth-year Computer
-Engineering student at Mae Fah Luang University in Chiang Rai, Thailand.
+<img align="right" src="assets/neko.svg" width="110" alt="A small orange chibi cat blinking and swishing its tail">
 
-I work on web and mobile apps, and I'm interested in AI and machine learning.
-I enjoy connecting the different parts of a project and figuring out why something
-isn't working. In university projects, I often help coordinate the team as well.
+Hi, I'm **Phone Thant Kyaw**. Most people call me Phone.
 
-I'm also a Teaching Assistant, supporting programming, networking, digital logic,
-and data-analytics labs. Helping someone debug their code has taught me to explain
-things clearly and check the basics first.
-
-In September 2026, I joined FACE IT at Universitas Brawijaya in Indonesia, studying
-deep learning and AI for images alongside international students. Outside those
-interests, I'm a Star Wars fan.
-
-## Lately
-
-I've been building with Next.js, React, TypeScript, and Tailwind CSS. Two apps are
-now online:
-
-- **[Thai Stay](https://thai-stay-one.vercel.app/)** keeps my Thailand reporting and
-  permitted-stay dates in one place. I made it for myself, friends, and juniors.
-  [Code](https://github.com/Zenzee7711/thai_stay)
-- **[WhatRWePlaying](https://whatrweplaying.vercel.app/)** helps find a PC game for
-  a group and compare store prices. It includes natural-language search with an LLM.
-  [Code](https://github.com/Zenzee7711/whatrweplaying)
-
-I'm still learning AWS cloud services and exploring better ways to connect language
-models to useful app features. These are personal projects that I'm continuing to improve.
+- Fourth-year Computer Engineering student at Mae Fah Luang University, Chiang Rai, Thailand
+- I build web and mobile apps, with a focus on AI and machine learning
+- Teaching Assistant for programming (C#), networking, digital logic and data-analytics labs
+- Joined FACE IT 2026 at Universitas Brawijaya, Indonesia: deep learning and AI for images
+- Usually the one who connects the parts of a team project and works out why they don't fit
+- Star Wars fan
 
 ## Core Tech Stack
 

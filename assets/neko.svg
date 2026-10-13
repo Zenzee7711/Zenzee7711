@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="A small chibi cat blinking and swishing its tail">
+  <style>
+    .tail { transform-origin: 44px 50px; animation: swish 2.4s ease-in-out infinite; }
+    .eyes { transform-origin: 32px 31px; animation: blink 4s infinite; }
+    .spark { transform-origin: 52px 12px; animation: twinkle 2s ease-in-out infinite; }
+    .bob { animation: bob 2.4s ease-in-out infinite; }
+    @keyframes swish { 0%, 100% { transform: rotate(-12deg); } 50% { transform: rotate(14deg); } }
+    @keyframes blink { 0%, 92%, 100% { transform: scaleY(1); } 95% { transform: scaleY(0.1); } }
+    @keyframes twinkle { 0%, 100% { transform: scale(0.4); opacity: 0.3; } 50% { transform: scale(1); opacity: 1; } }
+    @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(1px); } }
+    @media (prefers-reduced-motion: reduce) { .tail, .eyes, .spark, .bob { animation: none; } }
+  </style>
+  <!-- tail -->
+  <path class="tail" d="M44 50 C54 48 58 40 55 32" fill="none" stroke="#1f1f24" stroke-width="7" stroke-linecap="round"/>
+  <path class="tail" d="M44 50 C54 48 58 40 55 32" fill="none" stroke="#ff8a3d" stroke-width="4" stroke-linecap="round"/>
+  <g class="bob">
+    <!-- body -->
+    <ellipse cx="32" cy="50" rx="13" ry="9" fill="#ff8a3d" stroke="#1f1f24" stroke-width="2.5"/>
+    <!-- ears -->
+    <path d="M15 22 L17 7 L27 16 Z" fill="#ff8a3d" stroke="#1f1f24" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M49 22 L47 7 L37 16 Z" fill="#ff8a3d" stroke="#1f1f24" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M18.5 18 L19.5 11 L24 15 Z" fill="#ffc9a8"/>
+    <path d="M45.5 18 L44.5 11 L40 15 Z" fill="#ffc9a8"/>
+    <!-- head -->
+    <rect x="12" y="14" width="40" height="30" rx="14" fill="#ff8a3d" stroke="#1f1f24" stroke-width="2.5"/>
+    <!-- eyes (anime: big, with highlights) -->
+    <g class="eyes">
+      <ellipse cx="24" cy="30" rx="3.6" ry="4.6" fill="#1f1f24"/>
+      <ellipse cx="40" cy="30" rx="3.6" ry="4.6" fill="#1f1f24"/>
+      <circle cx="25.2" cy="28.2" r="1.3" fill="#fff"/>
+      <circle cx="41.2" cy="28.2" r="1.3" fill="#fff"/>
+    </g>
+    <!-- blush and mouth -->
+    <ellipse cx="18.5" cy="36" rx="3" ry="1.6" fill="#ff5f7a" opacity="0.55"/>
+    <ellipse cx="45.5" cy="36" rx="3" ry="1.6" fill="#ff5f7a" opacity="0.55"/>
+    <path d="M29 35.5 Q30.5 37.5 32 35.5 Q33.5 37.5 35 35.5" fill="none" stroke="#1f1f24" stroke-width="1.6" stroke-linecap="round"/>
+  </g>
+  <!-- sparkle -->
+  <path class="spark" d="M52 6 L53.4 10.6 L58 12 L53.4 13.4 L52 18 L50.6 13.4 L46 12 L50.6 10.6 Z" fill="#ffd166"/>
+</svg>

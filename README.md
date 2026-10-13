@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner-static.png">
-  <img src="assets/banner.gif" width="100%" alt="Obi-Wan Kenobi, eyes closed, slowly looking up.">
+  <img src="assets/banner.svg" width="100%" alt="Hey, I'm Phone. Computer Engineering, software, AI and machine learning.">
 </picture>
 
 <a href="https://zenzee7711.github.io/"><img src="assets/btn-portfolio.svg" height="42" alt="Portfolio"></a> <a href="https://www.linkedin.com/in/phone-thant-kyaw-8a8194216/"><img src="assets/btn-linkedin.svg" height="42" alt="LinkedIn"></a> <a href="mailto:phonetk7711@gmail.com"><img src="assets/btn-email.svg" height="42" alt="Email"></a>

@@ -2,10 +2,9 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner-static.png">
-  <img src="assets/banner.svg" width="100%" alt="Hey, I'm Phone. Computer Engineering, software, AI and machine learning.">
+  <img src="assets/banner.svg" width="100%" align="top" alt="Hey, I'm Phone. Computer Engineering, software, AI and machine learning.">
 </picture>
-
-<a href="https://zenzee7711.github.io/"><img src="assets/btn-portfolio.svg" height="42" alt="Portfolio"></a> <a href="https://www.linkedin.com/in/phone-thant-kyaw-8a8194216/"><img src="assets/btn-linkedin.svg" height="42" alt="LinkedIn"></a> <a href="mailto:phonetk7711@gmail.com"><img src="assets/btn-email.svg" height="42" alt="Email"></a>
+<a href="https://zenzee7711.github.io/"><img src="assets/bar-portfolio.svg" width="33.33%" align="top" alt="Portfolio"></a><a href="https://www.linkedin.com/in/phone-thant-kyaw-8a8194216/"><img src="assets/bar-linkedin.svg" width="33.33%" align="top" alt="LinkedIn"></a><a href="mailto:phonetk7711@gmail.com"><img src="assets/bar-email.svg" width="33.33%" align="top" alt="Email"></a>
 
 </div>
 

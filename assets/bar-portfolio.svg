@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 267 64" width="267" height="64" role="img" aria-label="Portfolio">
+<title>Portfolio</title>
+<rect width="267" height="64" fill="#000"/>
+<rect x="45.5" y="11" width="176" height="42" rx="10" fill="#0b1a10"/>
+<rect x="46.2" y="11.7" width="174.6" height="40.6" rx="9.3" fill="none" stroke="#39d353" stroke-opacity="0.55"/>
+<g transform="translate(67.5 22) scale(0.8333)"><circle cx="12" cy="12" r="9" fill="none" stroke="#39d353" stroke-width="1.9"/><ellipse cx="12" cy="12" rx="4" ry="9" fill="none" stroke="#39d353" stroke-width="1.9"/><path d="M3.3 9.2h17.4M3.3 14.8h17.4" stroke="#39d353" stroke-width="1.9" stroke-linecap="round"/></g>
+<text x="101.5" y="37.5" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="600" fill="#f2f2f2">Portfolio</text>
+</svg>

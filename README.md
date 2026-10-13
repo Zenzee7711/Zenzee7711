@@ -20,7 +20,6 @@ Hi, I'm **Phone Thant Kyaw**. Most people call me Bryan.
 - Teaching Assistant for programming (C#), networking, digital logic and data-analytics labs
 - Joined FACE IT 2026 at Universitas Brawijaya, Indonesia: deep learning and AI for images
 - Usually the one who connects the parts of a team project and works out why they don't fit
-- Star Wars fan
 
 ## Core Tech Stack
 

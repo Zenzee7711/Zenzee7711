@@ -11,50 +11,53 @@
 
 ## About Me
 
-I'm Phone Thant Kyaw — most people just call me Phone. I'm a fourth-year Computer
+I'm Phone Thant Kyaw. Most people call me Phone. I'm a fourth-year Computer
 Engineering student at Mae Fah Luang University in Chiang Rai, Thailand.
 
-Most of what I do sits between software development and machine learning: building
-applications, training models on real datasets, and wiring the two together so they
-actually run. What I enjoy most is the connecting part — taking components that don't
-quite fit, working out why, and getting a prototype moving. I often end up coordinating
-my project teams, usually because someone has to track how the pieces join up.
+I work on web and mobile apps, and I'm interested in AI and machine learning.
+I enjoy connecting the different parts of a project and figuring out why something
+isn't working. In university projects, I often help coordinate the team as well.
 
-I'm also a Teaching Assistant at MFU, supporting laboratory courses in programming,
-networking, digital logic and data analytics. Explaining something to a student who is
-stuck is a good test of whether I understand it myself. In September 2026 I joined
-FACE IT 2026 at Universitas Brawijaya in Indonesia, an academic and cultural exchange
-on deep learning and AI for images.
+I'm also a Teaching Assistant, supporting programming, networking, digital logic,
+and data-analytics labs. Helping someone debug their code has taught me to explain
+things clearly and check the basics first.
 
-## Currently Exploring
+In September 2026, I joined FACE IT at Universitas Brawijaya in Indonesia, studying
+deep learning and AI for images alongside international students. Outside those
+interests, I'm a Star Wars fan.
 
-I'm learning AWS cloud services and experimenting with LLMs and generative AI through
-small side projects. They're learning experiments rather than finished systems; they'll
-appear on my portfolio once they're worth showing.
+## Lately
+
+I've been building with Next.js, React, TypeScript, and Tailwind CSS. Two apps are
+now online:
+
+- **[Thai Stay](https://thai-stay-one.vercel.app/)** keeps my Thailand reporting and
+  permitted-stay dates in one place. I made it for myself, friends, and juniors.
+  [Code](https://github.com/Zenzee7711/thai_stay)
+- **[WhatRWePlaying](https://whatrweplaying.vercel.app/)** helps find a PC game for
+  a group and compare store prices. It includes natural-language search with an LLM.
+  [Code](https://github.com/Zenzee7711/whatrweplaying)
+
+I'm still learning AWS cloud services and exploring better ways to connect language
+models to useful app features. These are personal projects that I'm continuing to improve.
 
 ## Tools I Use
 
-<img src="assets/tools.svg" width="563" alt="Python, scikit-learn, OpenCV, Apache Spark, Apache Kafka, JavaScript, Node.js, Express, Flutter, Dart, MySQL, Docker, Git and AWS.">
+<img src="assets/tools.svg" width="600" alt="Python, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js, Express, Flutter, MySQL, Docker and Git.">
 
-|  |  |
+| | |
 | --- | --- |
-| **Languages** | Python · JavaScript · Dart · SQL · HTML/CSS |
-| **ML &amp; data** | LightGBM · scikit-learn · YOLO · OpenCV · PySpark · Spark MLlib · Kafka |
-| **Apps &amp; infrastructure** | Node.js · Express · Flutter · MySQL · Docker · Git |
-| **Learning right now** | AWS · LLMs and generative AI |
+| **Web** | TypeScript · JavaScript · React · Next.js · Tailwind CSS · HTML/CSS |
+| **Backend & mobile** | Node.js · Express · REST APIs · MySQL · SQL · Flutter · Dart |
+| **ML & data** | Python · LightGBM · scikit-learn · YOLO · OpenCV · PySpark · Kafka |
+| **Development** | Git · Docker · Linux |
+| **Currently learning** | AWS cloud services |
 
 ## Find Me
 
-My portfolio is the best place to start — it has the detailed write-ups, including how my
-senior project reads traffic video to estimate accident risk:
+My [portfolio](https://zenzee7711.github.io/) has more project details, including
+my road-risk computer-vision project and university work.
 
-**→ [zenzee7711.github.io](https://zenzee7711.github.io/)**
-
-A couple of repositories if you'd rather read code:
-
-- **[library-room-reservation-web](https://github.com/Zenzee7711/library-room-reservation-web)** — room booking on the web, with student, lecturer and staff roles enforced server-side.
-- **[library-room-booking-mobile](https://github.com/Zenzee7711/library-room-booking-mobile)** — the Flutter client for the same system, plus the REST API behind it.
-
-I'm looking for a co-op internship starting January 2027, in software or AI/ML. The
-quickest way to reach me is [email](mailto:phonetk7711@gmail.com) or
+I'm looking for a co-op internship starting January 2027 in software or AI/ML.
+You can reach me by [email](mailto:phonetk7711@gmail.com) or
 [LinkedIn](https://www.linkedin.com/in/phone-thant-kyaw-8a8194216/).

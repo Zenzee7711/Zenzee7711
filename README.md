@@ -13,7 +13,7 @@
 
 <img align="right" src="assets/eva.svg" width="240" alt="Evangelion Unit-01 hovering">
 
-Hi, I'm **Phone Thant Kyaw**. Most people call me Phone.
+Hi, I'm **Phone Thant Kyaw**. Most people call me Bryan.
 
 - Fourth-year Computer Engineering student at Mae Fah Luang University, Chiang Rai, Thailand
 - I build web and mobile apps, with a focus on AI and machine learning

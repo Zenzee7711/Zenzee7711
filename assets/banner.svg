@@ -11,7 +11,7 @@
   <rect x="500" y="0" width="300" height="340" fill="url(#fade)"/>
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif" fill="#f2f2f2">
     <text x="560" y="128" font-size="34" font-weight="600">Hey, I'm</text>
-    <text x="560" y="184" font-size="52" font-weight="800">Phone.</text>
+    <text x="560" y="184" font-size="52" font-weight="800">Bryan.</text>
   </g>
   <g font-family="Consolas, Menlo, monospace" font-size="15" fill="#39d353">
     <text x="562" y="226">Computer Engineering</text>
